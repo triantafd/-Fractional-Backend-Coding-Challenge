@@ -1,0 +1,18 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "B.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts-node": "ts-node",
+    "sort.ts": "ts-node sort.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.26",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
